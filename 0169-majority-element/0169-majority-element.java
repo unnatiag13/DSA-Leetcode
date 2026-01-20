@@ -7,6 +7,7 @@ class Solution {
             current = nums[i];
             if(count==0){
                 candidate = current;
+                count=0;
             }
             if(current==candidate){
                 count++;
