@@ -8,7 +8,10 @@ class Solution {
             if(arr[i]==sub[0]){
                  idx=i;
                 for(int j=1;j<sub.length;j++){
-                    if(i+j>=arr.length) return -1;
+                    if(i+j>=arr.length){
+                        idx=-1;
+                        break;
+                    }
                     if(arr[i+j] != sub[j]){
                         idx=-1;
                         break;
