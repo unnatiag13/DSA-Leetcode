@@ -4,7 +4,7 @@ class Solution {
         char[] sub = needle.toCharArray();
         if(arr.length<sub.length) return -1;
         int idx=-1;
-        for(int i=0;i<arr.length;i++){
+        for(int i=0;i<=arr.length-sub.length;i++){
             if(arr[i]==sub[0]){
                  idx=i;
                 for(int j=1;j<sub.length;j++){
