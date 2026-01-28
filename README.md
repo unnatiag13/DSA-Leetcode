@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0169-majority-element) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
