@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0090-subsets-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0189-rotate-array) |
 ## Heap (Priority Queue)
 |  |
