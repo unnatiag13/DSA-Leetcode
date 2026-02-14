@@ -17,8 +17,8 @@ class Solution {
         ListNode curr = head.next;
         ListNode prev = head;
         while(curr!=null && curr.next!=null){
+            if(curr.next.val==curr.val){
             int data = curr.val;
-            if(curr.next.val==data){
                 while(curr.next!=null && curr.next.val==data){
                     prev.next=curr.next;
                     curr=curr.next;
