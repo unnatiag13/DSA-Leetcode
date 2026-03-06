@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0136-single-number) |
+| [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2679-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
