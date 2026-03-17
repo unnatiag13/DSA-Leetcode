@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0867-transpose-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -171,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Matrix
 |  |
