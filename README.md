@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Heap (Priority Queue)
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
