@@ -1,6 +1,5 @@
 class RecentCounter {
     Queue<Integer> q;
-    int size=0;
 
     public RecentCounter() {
         q= new LinkedList<>();
@@ -8,12 +7,10 @@ class RecentCounter {
     
     public int ping(int t) {
         q.offer(t);
-        size++;
         while(!q.isEmpty() && q.peek()<t-3000){
             q.poll();
-            size--;
         }
-        return size;
+        return q.size();
 
     }
 }
