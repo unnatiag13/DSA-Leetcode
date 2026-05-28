@@ -8,7 +8,7 @@ class Solution {
         for(char c:t.toCharArray()){
             if(!map.containsKey(c)) return false;
             else{
-                map.put(c,map.getOrDefault(c,2)-1);
+                map.put(c,map.getOrDefault(c,0)-1);
             }
         }
         for(int v:map.values()){
