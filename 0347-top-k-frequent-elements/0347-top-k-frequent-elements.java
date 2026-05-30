@@ -5,19 +5,14 @@ class Solution {
         for(int i:nums){
             map.put(i,map.getOrDefault(i,0)+1);
         }
+        List<Map.Entry<Integer,Integer>> list = new ArrayList<>(map.entrySet());
+
+        list.sort((a,b)->Integer.compare(b.getValue(),a.getValue()));
+
         int[] ans = new int[k];
         for(int i=0;i<k;i++){
-            int maxKey = -1;
-            int maxFreq = -1;
-            for(int key:map.keySet()){
-                if(map.get(key)>maxFreq){
-                    maxFreq = map.get(key);
-                    maxKey = key;
-                }
-            }
-            ans[i] = maxKey;
-            map.remove(maxKey);
-        }   
+            ans[i] = list.get(i).getKey();
+        } 
         return ans;
     }
 }
