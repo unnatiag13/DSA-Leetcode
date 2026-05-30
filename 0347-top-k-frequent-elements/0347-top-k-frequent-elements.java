@@ -5,28 +5,19 @@ class Solution {
         for(int i:nums){
             map.put(i,map.getOrDefault(i,0)+1);
         }
-        List<List<Integer>> bucket=new ArrayList<>();
-
-        for(int i=0;i<n+1;i++){
-            bucket.add(null);
-        }
-
-        for(Map.Entry<Integer,Integer> e:map.entrySet()){
-            int freq = e.getValue();
-            if(bucket.get(freq)==null) bucket.set(freq,new ArrayList<>());
-            bucket.get(freq).add(e.getKey());
-        }
-
-       int[] ans = new int[k];
-       int index=0;
-        for(int i=n;i>=0 && index<k;i--){
-            if(bucket.get(i)!=null){
-                for(int q:bucket.get(i)){
-                    ans[index++] = q;
-                    if(index==k) break;
+        int[] ans = new int[k];
+        for(int i=0;i<k;i++){
+            int maxKey = -1;
+            int maxFreq = -1;
+            for(int key:map.keySet()){
+                if(map.get(key)>maxFreq){
+                    maxFreq = map.get(key);
+                    maxKey = key;
                 }
             }
-        }
+            ans[i] = maxKey;
+            map.remove(maxKey);
+        }   
         return ans;
     }
 }
