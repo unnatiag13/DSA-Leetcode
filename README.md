@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0066-plus-one) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0189-rotate-array) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1572-matrix-diagonal-sum) |
