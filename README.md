@@ -402,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
