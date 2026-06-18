@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
+| [3110-score-of-a-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
