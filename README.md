@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3110-score-of-a-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3174-clear-digits) |
