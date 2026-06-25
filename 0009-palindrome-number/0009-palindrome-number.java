@@ -3,8 +3,14 @@ class Solution {
         if(x<0){
             return false;
         }
+        x=Math.abs(x);
         String s = Integer.toString(x);
-        String r= new StringBuilder(s).reverse().toString();
-        return s.equals(r);
+        int st =  0, end =s.length()-1;
+        while(st<end){
+            if(s.charAt(st)!=s.charAt(end)) return false;
+            st++;
+            end--;
+        }
+        return true;
     }
 }
