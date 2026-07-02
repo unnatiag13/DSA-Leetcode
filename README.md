@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2679-sum-in-a-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2679-sum-in-a-matrix) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0993-cousins-in-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
