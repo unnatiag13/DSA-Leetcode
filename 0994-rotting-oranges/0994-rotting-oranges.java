@@ -1,6 +1,6 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        // WITHOUT VISITED ARRAY
+        // WITHOUT VISITED ARRAY AND EFFICIENT
         Queue<int[]> q = new LinkedList<>();
         int time =0;
         int freshCount =0;
@@ -12,29 +12,22 @@ class Solution {
             }
         }
 
+        int[] trow = {+1,0,-1,0};
+        int[] tcol = {0,+1,0,-1};
+
         while(!q.isEmpty()){
             int row = q.peek()[0];
             int col = q.peek()[1];
             time = q.poll()[2];
-            if(row-1>=0 &&grid[row-1][col]==1){
-                q.offer(new int[]{row-1,col,time+1});
-                grid[row-1][col]=2;
-                freshCount--;
-            }
-            if(col-1>=0 &&grid[row][col-1]==1){
-                q.offer(new int[]{row,col-1,time+1});
-                grid[row][col-1]=2;
-                freshCount--;
-            }
-            if(row+1<grid.length &&grid[row+1][col]==1){
-                q.offer(new int[]{row+1,col,time+1});
-                grid[row+1][col]=2;
-                freshCount--;
-            }
-            if(col+1<grid[0].length &&grid[row][col+1]==1){
-                q.offer(new int[]{row,col+1,time+1});
-                grid[row][col+1]=2;
-                freshCount--;
+
+            for(int k=0;k<4;k++){
+                int i = trow[k];
+                int j = tcol[k];
+                if(row+i>=0 && row+i<grid.length && col+j<grid[0].length && col+j>=0 &&grid[row+i][col+j]==1){
+                    q.offer(new int[]{row+i,col+j,time+1});
+                    grid[row+i][col+j]=2;
+                    freshCount--;
+                }
             }
         }
         if(freshCount==0)
