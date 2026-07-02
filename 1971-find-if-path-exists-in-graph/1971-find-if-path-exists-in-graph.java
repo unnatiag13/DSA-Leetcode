@@ -9,16 +9,17 @@ class Solution {
             adj.get(i[1]).add(i[0]);
         }
         boolean[] vis = new boolean[n];
-        dfs(source,adj,vis);
-        if(vis[destination]==true) return true;
-        return false;
+        return dfs(source,adj,vis,destination);
+
     }
-    static void dfs(int node,ArrayList<ArrayList<Integer>> adj,boolean[] vis){
+    static boolean dfs(int node,ArrayList<ArrayList<Integer>> adj,boolean[] vis,int des){
+        if(node == des) return true;
         vis[node] = true;
         for(int i:adj.get(node)){
             if(!vis[i]){
-                dfs(i,adj,vis);
+                if(dfs(i,adj,vis,des)) return true;
             }
         }
+        return false;
     }
 }
