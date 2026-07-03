@@ -10,7 +10,8 @@ class Solution {
         int[] colt = {0,+1,0,-1};
         while(!q.isEmpty()){
             int row = q.peek()[0];
-            int col = q.poll()[1];
+            int col = q.peek()[1];
+            q.poll();
             for(int k=0;k<4;k++){
                 int i = rowt[k];
                 int j = colt[k];
