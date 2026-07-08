@@ -4,7 +4,7 @@ class Solution {
         // two groups - 1 and 2
         for(int i=0;i<graph.length;i++){
             if(vis[i]==0){
-                if (bfs(i,graph,vis)) return false;
+                if (bfs(i,graph,vis)==false) return false;
             }
         }
         return true;
@@ -22,10 +22,10 @@ class Solution {
                     q.offer(new int[]{node,NodeGroup});
                     vis[node] = NodeGroup;
                 }else if(vis[node]==parentGroup){
-                    return true;
+                    return false;
                 }
             }
         }
-        return false;
+        return true;
     }
 }
