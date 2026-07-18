@@ -3,8 +3,9 @@ class Solution {
         int n = matrix.length;
         int[] deg = new int[n];
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(matrix[i][j]==1){
+            int[] row = matrix[i];
+            for (int j = 0; j < n; j++) {
+                if (row[j] == 1) {
                     deg[j]++;
                 }
             }
