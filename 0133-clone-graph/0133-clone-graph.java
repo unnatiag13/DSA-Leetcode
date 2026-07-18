@@ -20,12 +20,15 @@ class Node {
 
 class Solution {
     public Node cloneGraph(Node node) {
+
         if(node ==null) return null;
         Node ans = new Node(node.val);
         HashMap<Node,Node> map = new HashMap<>();
         Queue<Node> q = new LinkedList<>();
+
         q.offer(node);
         map.put(node,ans);
+
         while(!q.isEmpty()){
             Node n = q.poll();
             Node a = map.get(n);
@@ -35,7 +38,6 @@ class Solution {
                     Node copy = new Node(i.val);
                     map.put(i,copy);
                     q.offer(i);
-                    
                 }
                 ls.add(map.get(i));
             }
