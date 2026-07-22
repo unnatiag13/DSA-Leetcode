@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0051-n-queens) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0118-pascals-triangle) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
