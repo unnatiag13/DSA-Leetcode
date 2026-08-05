@@ -18,14 +18,15 @@ class Solution {
         Queue<Integer> q = new LinkedList<>();
         boolean[] vis = new boolean[n];
         q.offer(k);
+        vis[k] = true;
         Set<Integer> neighbors = new HashSet<>();
         while(!q.isEmpty()){
             int node = q.poll();
-            vis[node] = true;
             neighbors.add(node);
             for(int i:adj.get(node)){
                 if(!vis[i]){
                     q.offer(i);
+                    vis[node] = true;
                 }
             }
         }
