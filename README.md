@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Sliding Window
 |  |
 | ------- |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
