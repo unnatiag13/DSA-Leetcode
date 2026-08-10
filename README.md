@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -597,8 +599,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
