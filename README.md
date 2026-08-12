@@ -623,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
