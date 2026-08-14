@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 ## Greedy
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0509-fibonacci-number) |
