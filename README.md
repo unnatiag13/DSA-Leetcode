@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
