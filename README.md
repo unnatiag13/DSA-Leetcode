@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 | [1310-xor-queries-of-a-subarray](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Greedy
 |  |
 | ------- |
