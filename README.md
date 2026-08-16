@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [2679-sum-in-a-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
@@ -630,10 +635,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -642,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## DP on Trees
 |  |
 | ------- |
