@@ -13,20 +13,25 @@
  *     }
  * }
  */
+
+class BalPair{
+    boolean isBal = true;
+    int ht =-1;
+}
 class Solution {
-    // [1,2,2,3,null,null,3,4,null,null,4]
     public boolean isBalanced(TreeNode root) {
-        return calculateHeight(root) !=-1;
-
+        return Balanced(root).isBal;
     }
-    public static int calculateHeight(TreeNode p){
-        if(p==null) return 0;
-        int left = calculateHeight(p.left);
-        if(left==-1) return -1;
-        int right = calculateHeight(p.right);
-        if(right==-1) return -1;
-        if(Math.abs(left-right)>1) return -1;
-
-        return Math.max(left,right)+1;
+    public static BalPair Balanced(TreeNode root){
+        if(root==null){
+            return new BalPair();
+        }
+        BalPair lt = Balanced(root.left);
+        BalPair rt = Balanced(root.right);
+        boolean s = lt.isBal && rt.isBal && Math.abs(lt.ht-rt.ht)<=1;
+        BalPair bp = new BalPair();
+        bp.ht= Math.max(lt.ht,rt.ht)+1;
+        bp.isBal =  s;
+        return bp;
     }
 }
