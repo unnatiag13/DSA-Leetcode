@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0877-stone-game) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 ## Hash Table
 |  |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0841-keys-and-rooms) |
 | [0951-flip-equivalent-binary-trees](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/unnatiag13/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -588,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -690,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
