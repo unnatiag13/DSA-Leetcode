@@ -1,17 +1,5 @@
 class Solution {
-    public static boolean isSafe(int row,int col, char[][] board){
-        for(int i=0;i<col;i++){
-            if(board[row][i]=='Q') return false;
-        }
-        int r,c;
-        for(c =col,r=row; c>=0 && r>=0; c--,r--){
-            if(board[r][c]=='Q') return false;
-        }
-        for(r=row,c =col; c>=0 && r<board.length; c--,r++){
-            if(board[r][c]=='Q') return false;
-        }
-        return true;
-    }
+    boolean[] cols, diagU, diagD;
     public static void saveBoard(List<List<String>> allBoards , char[][] board){
         List<String> newBoard = new ArrayList<>();
         for(int row=0;row<board.length;row++){
@@ -31,16 +19,21 @@ class Solution {
             saveBoard(allBoards,board);
         }
         for(int row=0;row<board.length;row++){
-            if(isSafe(row,col,board)){
+            if(!cols[row] && !diagU[row+col] && !diagD[row-col+board.length-1]){
                 board[row][col]='Q';
+                cols[row] = diagU[row+col] = diagD[row-col+board.length-1] = true;
                 helper(board,allBoards,col+1);
                 board[row][col] ='.';
+                cols[row] = diagU[row+col] = diagD[row-col+board.length-1] = false;
             }
         }
     }
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> allBoards = new ArrayList<>();
         char[][] board = new char[n][n];
+        cols = new boolean[n];
+        diagU = new boolean[2 * n];
+        diagD = new boolean[2 * n];
         helper(board,allBoards,0);
         return allBoards;
     }
