@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0784-letter-case-permutation](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0113-path-sum-ii) |
+| [0784-letter-case-permutation](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0461-hamming-distance) |
+| [0784-letter-case-permutation](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0784-letter-case-permutation) |
 | [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 | [1310-xor-queries-of-a-subarray](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
