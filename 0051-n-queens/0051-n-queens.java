@@ -3,20 +3,11 @@ class Solution {
         for(int i=0;i<board.length;i++){
             if(board[row][i]=='Q') return false;
         }
-        for(int i=0;i<board.length;i++){
-            if(board[i][col]=='Q') return false;
-        }
         int r,c;
         for(c =col,r=row; c>=0 && r>=0; c--,r--){
             if(board[r][c]=='Q') return false;
         }
-        for(c =col,r=row; c<board.length && r>=0; c++,r--){
-            if(board[r][c]=='Q') return false;
-        }
         for(r=row,c =col; c>=0 && r<board.length; c--,r++){
-            if(board[r][c]=='Q') return false;
-        }
-        for(r=row,c =col; c<board.length && r<board.length; c++,r++){
             if(board[r][c]=='Q') return false;
         }
         return true;
