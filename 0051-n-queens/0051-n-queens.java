@@ -15,14 +15,14 @@ class Solution {
     public static void saveBoard(List<List<String>> allBoards , char[][] board){
         List<String> newBoard = new ArrayList<>();
         for(int row=0;row<board.length;row++){
-            String currRow = "";
+            StringBuilder currRow = new StringBuilder();
             for(int col=0;col<board.length;col++){
                 if(board[row][col]=='Q') 
-                    currRow+="Q";
+                    currRow.append("Q");
                 else 
-                    currRow+=".";
+                    currRow.append(".");
             }
-            newBoard.add(currRow);
+            newBoard.add(currRow.toString());
         }
         allBoards.add(newBoard);
     }
