@@ -1,6 +1,6 @@
 class Solution {
     public static boolean isSafe(int row,int col, char[][] board){
-        for(int i=0;i<board.length;i++){
+        for(int i=0;i<col;i++){
             if(board[row][i]=='Q') return false;
         }
         int r,c;
