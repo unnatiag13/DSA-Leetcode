@@ -1,19 +1,5 @@
 class Solution {
     boolean[] cols, diagU, diagD;
-    public static void saveBoard(List<List<String>> allBoards , char[][] board){
-        List<String> newBoard = new ArrayList<>();
-        for(int row=0;row<board.length;row++){
-            StringBuilder currRow = new StringBuilder();
-            for(int col=0;col<board.length;col++){
-                if(board[row][col]=='Q') 
-                    currRow.append("Q");
-                else 
-                    currRow.append(".");
-            }
-            newBoard.add(currRow.toString());
-        }
-        allBoards.add(newBoard);
-    }
     public void helper(char[][] board ,List<List<String>> allBoards, int col ){
         if(col==board.length){
             List<String> temp = new ArrayList<>();
