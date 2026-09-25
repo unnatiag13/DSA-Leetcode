@@ -15,13 +15,24 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        return symmetric(root.left,root.right);
-    }
-    public boolean symmetric(TreeNode p, TreeNode q){
-        if(p==null && q==null) return true;
-        if(p==null || q==null) return false;
-        if(p.val !=q.val) return false;
+        // iterative approach using a queue
+        Queue<TreeNode> q = new LinkedList<>();
+        q.offer(root.left);
+        q.offer(root.right);
+        while(!q.isEmpty()){
+            TreeNode a = q.poll();
+            TreeNode b = q.poll();
 
-        return symmetric(p.left,q.right) && symmetric(p.right,q.left);
+            if(a==null && b==null) continue;
+            if(a==null || b==null) return false;
+            if(a.val!=b.val) return false;
+
+            q.offer(a.left);
+            q.offer(b.right);
+
+            q.offer(a.right);
+            q.offer(b.left);
+        }
+        return true;
     }
 }
