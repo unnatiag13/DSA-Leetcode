@@ -14,21 +14,15 @@
  * }
  */
 class Solution {
-    int max_depth =0;
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> ll = new ArrayList<>();
-        rightView(root,ll,1);
-        return ll;
+        List<Integer> ans = new ArrayList<>();
+        solve(0,ans,root);
+        return ans;
     }
-    public void rightView(TreeNode root,List<Integer> ll,int currLevel){
+    public void solve(int level,List<Integer> ans,TreeNode root){
         if(root==null) return;
-
-        if(max_depth<currLevel){
-            max_depth = currLevel;
-            ll.add(root.val);
-        }
-
-        rightView(root.right,ll,currLevel+1);
-        rightView(root.left,ll,currLevel+1);
+        if(ans.size()<=level) ans.add(root.val);
+        solve(level+1,ans,root.right);
+        solve(level+1,ans,root.left);
     }
 }
