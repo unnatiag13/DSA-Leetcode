@@ -27,6 +27,7 @@ class Solution {
             ll.add(root.val);
             ans.add(new ArrayList<>(ll));
             ll.remove(ll.size()-1);
+            return true;
         }
         ll.add(root.val);
 
@@ -35,6 +36,5 @@ class Solution {
 
         ll.remove(ll.size()-1);
         return left|| right;
-        
     }
 }
