@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Game Theory
 |  |
 | ------- |
