@@ -9,9 +9,10 @@ class Solution {
             ll.add(ans.toString());
             return;
         }
-        if(open>n) return;
-        solve(n,open+1,close,ans.append("("),ll);
-        ans.deleteCharAt(ans.length() - 1);
+        if(open<n){
+            solve(n,open+1,close,ans.append("("),ll);
+            ans.deleteCharAt(ans.length() - 1);
+        }
         if(open>close){
             solve(n,open,close+1,ans.append(")"),ll);
             ans.deleteCharAt(ans.length() - 1);
