@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0542-01-matrix) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -837,4 +840,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
