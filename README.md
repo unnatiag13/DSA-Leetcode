@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0877-stone-game) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0968-binary-tree-cameras) |
