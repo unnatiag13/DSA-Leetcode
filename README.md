@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0486-predict-the-winner) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0344-reverse-string) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
