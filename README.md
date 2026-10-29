@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0704-binary-search) |
+| [0887-super-egg-drop](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0887-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/unnatiag13/DSA-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0887-super-egg-drop) |
 | [0968-binary-tree-cameras](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0887-super-egg-drop) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/unnatiag13/DSA-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
