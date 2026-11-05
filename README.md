@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0200-number-of-islands) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0174-dungeon-game](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0312-burst-balloons) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0079-word-search) |
+| [0174-dungeon-game](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/unnatiag13/DSA-Leetcode/tree/master/0733-flood-fill) |
