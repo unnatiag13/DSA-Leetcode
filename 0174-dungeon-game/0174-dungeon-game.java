@@ -8,7 +8,7 @@ class Solution {
             return Integer.MAX_VALUE;
         }
         if(cr== dungeon.length-1 && cc==dungeon[0].length-1){
-            return 1-dungeon[cr][cc]>0?1-dungeon[cr][cc]:1;
+            return Math.max(1,1-dungeon[cr][cc]);
         }
         if(dp[cr][cc]!=0) return dp[cr][cc];
         int ld = calculate_MinimumHP(dungeon,cr,cc+1,dp);
